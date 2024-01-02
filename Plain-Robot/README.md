@@ -1,5 +1,6 @@
-# Plain Robot Template
+# CHANGED Plain Robot Template
 
+Taken from The Spikes FRC team 2212
 This template is an extension of the WPILib CommandRobot template.<br>
 The extra features of this template are:
 * SpikesLib2, CTRE Phoenix and REVLib vendordeps are added by default.
